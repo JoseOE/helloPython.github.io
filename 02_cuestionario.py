@@ -1,7 +1,7 @@
 nombre = input("Ingresa tu nombre\n")
 if nombre=="Valeria Soto Hernandez":
     print("LA GENTE MENTIROSA ESTA RESTRINGIDA DE ESTE CODIGO EPIQUISIMO \nNIMODOTE AMOR")
-exit()
+    exit()
 
 email=input("Ingresa tu correo electronico\n")
 # Validar el correo electrónico
