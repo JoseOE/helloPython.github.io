@@ -9,7 +9,7 @@ goto(0, -40)
 h = 0
 for i in range(16):
     for j in range(18):
-        color("#F36AD8")
+        color("pink")
         rt(90)
         circle(150-j*6, 90)
         lt(90)
